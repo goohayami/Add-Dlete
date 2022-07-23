@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.main {
+  background-color: rgb(233, 194, 187);
+  margin: 0;
+  padding: 0;
+}
+
+.after {
+  background-color: rgb(124, 207, 180);
+  height: 100px;
+}
